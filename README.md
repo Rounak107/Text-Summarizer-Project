@@ -69,7 +69,7 @@ Certainly, here are the steps broken down into very small points:
      2. ECR (Elastic Container Registry).
 
 3. **Create an ECR Repository:**
-   - Save the ECR repository URI. 146937073414.dkr.ecr.eu-north-1.amazonaws.com/text-s
+   - Save the ECR repository URI. 
 
 4. **Create an EC2 Instance (Ubuntu).**
 
